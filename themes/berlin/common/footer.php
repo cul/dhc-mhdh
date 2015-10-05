@@ -35,7 +35,7 @@
 </script>
 <!-- CULTNBW START -->
 <script type="text/javascript">
-  CULh_style = 'static'; // limited, staticlink, static, search, standard (default)
+  CULh_style = 'standard'; // limited, staticlink, static, search, standard (default)
   //CULh_width = ''; // fixed, fluid (default)
   CULh_colorfg = '#025d86'; // topnavbar foreground color. hex value. ex: #002B7F
   //CULh_colorbg = '#666666'; // topnavbar background color. hex value. ex: #779BC3
