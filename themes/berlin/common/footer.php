@@ -18,8 +18,7 @@
        <a href="http://library.columbia.edu/locations/dhc.html"><img style="float:left" src="/images/dhc-logo.png"/></a>
        <div id="boilerplate">
        <p style="margin-bottom:2px"><a href="/copyright">Terms and Conditions</a></p>
-        <p style="margin-top:2px"><?php echo __('Proudly powered by <a href="http://omeka.org">Omeka</a>.'); ?></p>
-        </div>
+          </div>
 
     </div><!-- end footer-content -->
 
@@ -35,7 +34,7 @@
 </script>
 <!-- CULTNBW START -->
 <script type="text/javascript">
-  CULh_style = 'static'; // limited, staticlink, static, search, standard (default)
+  CULh_style = 'standard'; // limited, staticlink, static, search, standard (default)
   //CULh_width = ''; // fixed, fluid (default)
   CULh_colorfg = '#025d86'; // topnavbar foreground color. hex value. ex: #002B7F
   //CULh_colorbg = '#666666'; // topnavbar background color. hex value. ex: #779BC3
